@@ -7,9 +7,8 @@ Test-site
   	<li>Browse Samples</li>
   	<li>Contact Milliman</li>
   </ul>
- </div>
+  </div>
 </div>
-
 
 <div class="intro">
 	<div class="container">
@@ -21,22 +20,21 @@ Test-site
 
 <div class="main page">
 	<div class="container">
-
 <div>
-	<h3>Our Specialties</h3>
-		<ul>
-			<li>Retirement benefits</li>
-			<li>Healthcare communications</li>
-			<li>Total Reward Statements</li>
-		</ul>
+<h3>Our Specialties</h3>
+	<ul>
+		<li>Retirement benefits</li>
+		<li>Healthcare communications</li>
+		<li>Total Reward Statements</li>
+	</ul>
 </div>
 
 <div>
-	<h3>Communication Samples</h3>
-		<p>
-			<a href="#">Click here to see more samples</a>
-		</p>
+<h3>Communication Samples</h3>
+	<p>
+		<a href="#">Click here to see more samples</a>
+	</p>
 </div>
 
-	</div>
+</div>
 </div>
