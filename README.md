@@ -27,12 +27,6 @@ Test-site
 
 <div>
 	<h3>Meet the Team</h3>
-		<p><img height="250" width="190" src="C:\Users\Jessica.Gonchar\Pictures\EE Comm Site\Foster,%20Denise_0091.jpg">
-			<p><font size="3">Denise Foster</font></img>
-		<p><img height="250" width="190" src="C:\Users\Jessica.Gonchar\Pictures\EE Comm Site\Heidi_tenBroek.jpg">
-			<p><font size="3">Heidi tenBroek</font></img>
-		<p><img height="250" width="190" src="C:\Users\Jessica.Gonchar\Pictures\EE Comm Site\Englund,%20Lori_0071.jpg">
-				<p><font size="3">Lori Englund</font></img></p>
 </div>
 
 <div>
@@ -49,9 +43,6 @@ Test-site
 		<p>
 			<a href="#">Click here to see more samples</a>
 		</p>
-</div>
-
-	</div>
 </div>
 
 	</body>
