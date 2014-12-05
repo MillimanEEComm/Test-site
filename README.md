@@ -45,5 +45,4 @@ Test-site
 		</p>
 </div>
 
-	</body>
 </html>
